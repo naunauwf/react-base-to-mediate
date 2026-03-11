@@ -1,5 +1,14 @@
 # *
+unimportant.ts
+
+# env
+.env
+
+# md
 README.md
+
+# json
+jsonplaceholder.json
 
 # Logs
 logs
